@@ -51,6 +51,16 @@ Built a multi-platform NLP pipeline using VADER, BERT, and RoBERTa across **Twit
 
 Converted 2D medical scans into interactive 3D models using monocular depth estimation. Enabled real-time visualization and manipulation to improve diagnostic accessibility for clinicians.
 
+####🏎️ Formula 1 Race Strategy & Championship Analysis Dashboard
+
+Python · Plotly · Streamlit · FastF1 API · Interactive Visualization
+
+Built an interactive analytics platform exploring the 2021 Formula 1 championship controversy, visualizing lap times, pit strategies, safety-car windows, and driver position changes using official telemetry data from the FastF1 API. The dashboard enables users to interactively analyze how race events and FIA decisions influenced the championship outcome through dynamic charts and scenario visualizations.
+
+🔗 Live Dashboard: https://f1-app-app-ve3pcgk2v9lldl4cwmyq6f.streamlit.app/
+
+(Project explores the 2021 Abu Dhabi Grand Prix controversy using data-driven visualizations to replace opinion-based debate with analytical insights.) 
+
 ---
 
 ### 📫 Get in touch
